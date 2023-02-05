@@ -1,0 +1,22 @@
+h1{
+color: red;
+}
+#first{
+    color: blueviolet;
+}
+#second{
+    color: aqua;
+}
+#third{
+    color: brown;
+}
+.box{
+    background-color: beige;
+    width: 2000px;
+    height: 1000px;
+    padding: 0px 50px;
+    display: flex;
+    
+   
+
+}
