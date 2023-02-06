@@ -11,12 +11,11 @@ color: red;
     color: brown;
 }
 .box{
-    background-color: beige;
-    width: 2000px;
-    height: 1000px;
-    padding: 0px 50px;
-    display: flex;
     
-   
-
+    display: flex;
+    justify-content: left;
+}
+.one{
+    
+    justify-content:center;
 }
